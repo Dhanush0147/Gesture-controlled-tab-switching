@@ -25,4 +25,4 @@ This project allows users to switch between windows on their computer using **ha
    ```bash
    pip install opencv-python mediapipe pyautogui
 Run the script:
-python hand_gesture_control.py
+
