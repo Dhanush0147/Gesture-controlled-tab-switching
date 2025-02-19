@@ -36,11 +36,11 @@ How It Works
 How to Run
 ----------
 
-1.  pip install opencv-python mediapipe pyautogui
-    
-2.  python hand\_gesture\_control.py
-    
-3.  Place your hand in front of the webcam and move **left or right** to switch windows.
+1.install the library
+   ```pip install opencv-python mediapipe pyautogui```
+2. Run the Gesture.py file 
+```python hand_gesture_control.py```
+2.  Place your hand in front of the webcam and move **left or right** to switch windows.
     
 
 Improvements Needed
@@ -52,11 +52,6 @@ This project is **not complete** and requires several improvements:
     
 *   **Multiple Gesture Support:** Add support for volume control, brightness adjustment, and more.
     
-*   **Higher Accuracy:** Improve detection threshold for smoother operation.
-    
-*   **Cross-Platform Testing:** Ensure the program works on Windows, macOS, and Linux.
-    
-*   **Optimize Performance:** Reduce CPU/GPU usage for real-time applications.
-    
+
 
 Feel free to contribute and improve this project!
